@@ -1,4 +1,4 @@
--=(SEGA Megadrive/Genesis_Senhor notes)=-
+-=(MSX_Senhor notes)=-
 
 Tested: Working Video 720p, 1080p & Sound
 
